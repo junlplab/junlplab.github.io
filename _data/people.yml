@@ -1,0 +1,31 @@
+sivajibandyopadhyay:
+    display_name: "Sivaji Bandyopadhyay"
+    role: faculty
+
+sudipkumarnaskar:
+    display_name: "Sudip Kumar Naskar"
+    role: faculty
+
+dipankardas:
+    display_name: "Dipankar Das"
+    role: faculty
+
+brajagopalpatra:
+    display_name: "Braja Gopal Patra"
+    role: postdoc
+
+tapabratamondal:
+    display_name: "Tapabrata Mondal"
+    role: postdoc
+
+surajitdasgupta:
+    display_name: "Surajit Dasgupta"
+    webpage: "http://surajit-techie.github.io"
+    github: surajit-techie
+    role: grad
+
+amitrajitsarkar:
+    display_name: "Amitrajit Sarkar"
+    webpage: "http://aaiijmrtt.github.io/"
+    github: aaiijmrtt
+    role: grad
