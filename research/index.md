@@ -13,3 +13,8 @@ We have been working on numerous state-of-the-art research projects. We shall be
 Building Speech Recognition Systems using Deep Learning [here][deepspeech].
 
 [deepspeech]: project/deepspeech.html
+
+### Entailment
+Building Neural Models for Textual Entailment [here][entailment].
+
+[entailment]: project/entailment.html

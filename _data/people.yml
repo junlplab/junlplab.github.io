@@ -18,6 +18,22 @@ tapabratamondal:
     display_name: "Tapabrata Mondal"
     role: postdoc
 
+somnathbanerjee:
+    display_name: "Somnath Banerjee"
+    role: postdoc
+
+amitmajumder:
+    display_name: "Amit Majumder"
+    role: postdoc
+
+poulamidas:
+    display_name: "Poulami Das"
+    role: postdoc
+
+rajatpandit:
+    display_name: "Rajat Pandit"
+    role: postdoc
+
 surajitdasgupta:
     display_name: "Surajit Dasgupta"
     webpage: "http://surajit-techie.github.io"
@@ -29,3 +45,11 @@ amitrajitsarkar:
     webpage: "http://aaiijmrtt.github.io/"
     github: aaiijmrtt
     role: grad
+
+alapankulia:
+    display_name: "Alapan Kulia"
+    role: alum
+
+soumikmondal:
+    display_name: "Soumik Mondal"
+    role: alum
