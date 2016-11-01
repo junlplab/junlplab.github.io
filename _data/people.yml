@@ -34,6 +34,10 @@ rajatpandit:
     display_name: "Rajat Pandit"
     role: postdoc
 
+anupammondal:
+    display_name: "Anupam Mondal"
+    role: postdoc
+
 surajitdasgupta:
     display_name: "Surajit Dasgupta"
     webpage: "http://surajit-techie.github.io"
@@ -52,4 +56,24 @@ alapankulia:
 
 soumikmondal:
     display_name: "Soumik Mondal"
+    role: alum
+
+parthapakray:
+    display_name: "Partha Pakray"
+    role: alum
+
+pinakibhaskar:
+    display_name: "Pinaki Bhaskar"
+    role: alum
+
+anumkumarkolya:
+    display_name: "Anup Kumar Kolya"
+    role: alum
+
+sandipansarkar:
+    display_name: "Sandipan Sarkar"
+    role: alum
+
+kishorjitnongmeikapam:
+    display_name: "Kishorjit Nongmeikapam"
     role: alum
